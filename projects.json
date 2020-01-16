@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "source": "https://i.imgur.com/bn7sAiB.png",
+    "thumbnail": "/invoicer.png",
+    "website": "https://github.com/JennyJudova/ga-project-04",
+    "github": "https://github.com/JennyJudova/ga-project-04",
+    "caption": "Invoicer",
+    "duration": "Project duration - 7 days",
+    "type": "Solo Project",
+    "stack": "Django, Github, HTML, PostgreSQL, React, Sass",
+    "description": "This is a CRUD application built with Python and Django on the back end and React on the front. Being the only person on the project, I was responsible for everything from the SQL database on the back end to the Django REST framework, to the front end that included styling."
+  },
+  {
+    "id": "2",
+    "source": "https://i.imgur.com/3xqDEWd.png",
+    "thumbnail": "/allotted.png",
+    "website": "https://allotted.herokuapp.com/",
+    "github": "https://github.com/JennyJudova/sei-project-03",
+    "caption": "Allotted",
+    "duration": "Project duration - 9 days",
+    "type": "Group Project - team of 4",
+    "stack": "Express.js, Github, Google Firebase, Heroku, HTML, Mapbox API, MongoDB, Node.js, React, Sass",
+    "description": "A sustainability-focused platform, that allows people with allotments to share excess produce with others. This is a CRUD application built with a MERN stack. My main responsibility was building out the back end: the models and the RESTful API, as well as creating tests for the users. On the front end, I created the forms and the image upload using Google’s Firebase service."
+  },
+  {
+    "id": "3",
+    "source": "https://i.imgur.com/GjU0DOv.png",
+    "thumbnail": "/weather.png",
+    "website": "https://three-day-weather.herokuapp.com/",
+    "github": "https://github.com/JennyJudova/three-day-weather-forecast",
+    "caption": "Weather App",
+    "duration": "Project duration - 2 days",
+    "type": "Solo Project",
+    "stack": "CSS, Github, Heroku, HTML, React, News API, Open Weather API, Random Quote API, TFL API",
+    "description": "A two-day solo project using the Weather API, and React hooks. The app shows the weather in the four UK capitals. And the user can look up the weather in any city using the user input field."
+  },
+  {
+    "id": "4",
+    "source": "https://i.imgur.com/GpFHoVz.png",
+    "thumbnail": "/weatherandnews.png",
+    "website": "http://weather-and-news.herokuapp.com/",
+    "github": "https://github.com/JennyJudova/sei-project-2",
+    "caption": "Weather and News App",
+    "duration": "Project duration - 2 days",
+    "type": "Group Project - team of 2",
+    "stack": "CSS, Github, Heroku, HTML, React, Open Weather API, Sass",
+    "description": "A Start My Day interactive website where the user inputs their location and receives the local weather, local news, as well as a random fact. Users that chose London also received tube updates from TFL.This 2-day project was built in React using 4 external APIs (Open Weather API, News API, TFL and Random Quote API)."
+  },
+  {
+    "id": "5",
+    "source": "https://i.imgur.com/4Ue46FF.png",
+    "thumbnail": "/tetris.png",
+    "website": "https://jennyjudova.github.io/ga-project-01/",
+    "github": "https://github.com/JennyJudova/ga-project-01",
+    "caption": "Tetris",
+    "duration": "Project duration - 7 days",
+    "type": "Solo Project",
+    "stack": "CSS, Github, HTML, JavaScript",
+    "description": "Game of Tetris written in JavaScript and deployed on GitHub. The game has the 7 traditional tetromino shapes that rotate clockwise. The game presented a few challenges, rotation near the borders of the grid was one of them. The second checking and deleting completed lines."
+  },
+  {
+    "id": "6",
+    "source": "https://i.imgur.com/AXn1J3w.png",
+    "thumbnail": "https://i.imgur.com/AXn1J3w.png",
+    "website": "https://medium.com/@jennyjudova/using-a-bot-to-increase-my-instagram-following-2e99a5586702",
+    "github": "https://github.com/JennyJudova/InstagramLikeBot/blob/master/InstagramLikeBot.py",
+    "caption": "Instagram Like Bot",
+    "duration": "Project duration - 2 days",
+    "type": "Solo Project",
+    "stack": "Python, Selenium",
+    "description": "A bot that searches Instagram based on hashtags and 'likes' the posts."
+  }
+]
