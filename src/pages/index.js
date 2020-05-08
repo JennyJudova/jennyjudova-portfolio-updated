@@ -25,23 +25,28 @@ class HomeIndex extends React.Component {
               <h2>Hi, my name is Jenny Judova.</h2>
             </header>
             <p>
-              I am a Front End Developer with an interest in Fin-Tech, Cyber
-              Security, Malware and Compliance tech.
+              I am a Front End Developer primarily working with Ember js at Crowdstrike.
               <br />
-              My previous role at TechHub exposed me to some of the best tech
-              teams in London which sparked my curiosity in software
-              engineering. This led me to teach myself Python before I took the
-              plunge and joined GA’s software engineering cohort.
+              I am interested in CyberSecurity, Malware, Compliance tech, and FinTech.
+              <br />
+              As a self taught dev and a bootcamp grad I strongly support no CS initiatives and I am happy to talk about my experience.
+              <br />
             </p>
             <p>
-              I{' '}
+              I write{' '}(
               <a
                 href="https://medium.com/@jennyjudova"
                 target="_blank"
                 rel="noreferrer noopener"
               >
-                write
-              </a>{' '}
+                Medium</a>{' '}&{' '}
+              <a
+                href="https://dev.to/jennyjudova"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                Dev.to
+              </a>){' '}
               about my experience of being a developer, software engineering and
               startups in London.
             </p>

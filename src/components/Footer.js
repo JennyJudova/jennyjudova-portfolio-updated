@@ -37,11 +37,11 @@ class Footer extends React.Component {
                 <span className="label">linkedin</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="mailto:jjudova@gmail.com" className="icon fa-envelope-o">
                 <span className="label">Email</span>
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

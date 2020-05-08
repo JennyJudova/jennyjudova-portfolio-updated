@@ -12,7 +12,7 @@ class Header extends React.Component {
           <img className="image avatar" src={avatar} alt="" />
           <h1>JENNY JUDOVA</h1>
           <h3>Front End Engineer</h3>
-          <h4 className="mycv">
+          {/* <h4 className="mycv">
             <a
               href="https://docsend.com/view/q55qp7e"
               target="_blank"
@@ -20,7 +20,7 @@ class Header extends React.Component {
             >
               MY CV
             </a>
-          </h4>
+          </h4> */}
           <Icons />
         </div>
         <Footer />
